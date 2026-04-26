@@ -1,4 +1,4 @@
-# Projet-régression-linéaire (modélisation linéaire (R))
+# Projet régression linéaire (modélisation linéaire (R))
 
 Objectif : Prédire les notes d’étudiants à partir de variables académiques.  
 
